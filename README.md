@@ -3,7 +3,7 @@ Image Classification with Tensorflow 2.4 and Keras in jupyter notebook or PyChar
 
 falls nicht schon in anderen Projekten erfolgt
 
-#1. Anaconda installieren
+# 1. Anaconda installieren
 Download Anaconda von https://www.anaconda.com/products/individual
 Hier wird Anaconda mit Python3.8 verwendet.
 
@@ -15,7 +15,7 @@ Unter Suche in Windows die Systemungebungsvariabel, Klicke auf Umgebungsvariable
 
 ![image](https://user-images.githubusercontent.com/84871742/120812007-e1b73a00-c54c-11eb-8184-27be9191347a.png)
 
-#2. Bibliotheken anlegen/installieren
+# 2. Bibliotheken anlegen/installieren
 Anaconda prompt öffnen, dort sollte die Base-Enviroment automatisch geöffnet werden.
 Oder über cmd die Base-Enviroment activieren, mit:
 - activate base
@@ -27,7 +27,7 @@ Dazu die Befehle:
 
 nutzen.
 
-#3. Clone Repository
+# 3. Clone Repository
 Nun kann das Repository "Classifier_tf2_first" mit der gesamten Ordnerstrukturund, dem Jupyter Notebook und den Python-Scripten geclont werden.
 Dazu z.B.
 
@@ -42,5 +42,5 @@ Im Jupyter Notebook sind weitere Hilfestellungen beschrieben, wenn Anpassungen n
 
 Anstatt Jupyter Notebook können auch die Python Scripte z.B. mit PyCharm editiert und ausgeführt werden.
 
-#Viel Spaß.
+# Viel Spaß.
 
